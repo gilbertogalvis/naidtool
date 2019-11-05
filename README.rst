@@ -1,6 +1,6 @@
-#################################
-Nonrigid assited image distortion
-#################################
+#################################################
+naidtool - Nonrigid Assited Image Distortion Tool
+#################################################
 
 :Authors: John Kay, Gilberto Galvis
 :Email: john.kays2020@gmail.com, galvisgilberto@gmail.com
