@@ -25,7 +25,7 @@ Using optimized mode
 
 Requires the compilation of the .mex files found in the functions_nonrigid folder. Then, open MatLab and run the following in the command window
 
-.. code:: shell
+.. code:: matlab
 
     compile_c_files
 
@@ -45,6 +45,6 @@ Usage
 
 To run the tool, you just need to open MatLab and run the following line in the MatLab Command Window
 
-.. code:: shell
+.. code:: matlab
 
     nonrigid_assited_image_distortion
